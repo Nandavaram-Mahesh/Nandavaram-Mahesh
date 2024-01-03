@@ -3,7 +3,11 @@
 <h1 align="center">Hi 👋, I'm N Mahesh</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
-- 🔭 I’m currently working on [Full Stack Online Store , Blog App](https://github.com/Nandavaram-Mahesh/Online-Store-Application.git , https://github.com/Nandavaram-Mahesh/React-Redux-Blog.git)
+- 🔭 I’m currently working on [Full Stack Online Store , Blog App]
+- (
+- https://github.com/Nandavaram-Mahesh/Online-Store-Application.git ,
+- https://github.com/Nandavaram-Mahesh/React-Redux-Blog.git
+- )
 
 - 🌱 I’m currently learning **React, Next Js**
 
