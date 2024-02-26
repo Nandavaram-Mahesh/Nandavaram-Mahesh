@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Next js , Improving Backend Skills , Data Modelling , Understanding Design Patterns. <br>🎯 Goals: Buildling applications that  solve real world problems.<br>🎲 Fun fact: I have a photographic memory.</p>
+<p align="left">✨ writing code since 2020<br>📚 I'm currently upskilling myself and Improving Backend Skills , Data Modelling ,Understanding Design Patterns. <br>🎯 Goals: Buildling applications that  solve real world problems.<br>🎲 Fun fact: I have a photographic memory.</p>
 
 ###
 
